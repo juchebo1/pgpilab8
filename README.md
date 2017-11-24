@@ -1,3 +1,14 @@
-# Documentacion.
+#practica 8 pgpilab1
 
-# Autor Emilio Ferrera
+Profesor: Ostua (proyecto original)
+
+Alumnos: Antonio, Jesús y Eduardo.
+
+
+Plantilla de *Readme*
+
+# Introducción
+
+
+# Funcionamiento del código
+
