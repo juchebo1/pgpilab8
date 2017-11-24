@@ -1,4 +1,4 @@
-#practica 8 pgpilab1
+# Practica 8 pgpilab1
 
 Profesor: Ostua (proyecto original)
 
