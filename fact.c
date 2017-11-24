@@ -19,7 +19,7 @@ master
 int main(int argc, char **argv)
 {
 emiferale
-  int num;
+  int n;
 
   int numTemp;
   
@@ -31,7 +31,7 @@ master
   }
 emiferale
   num=atoi(argv[1]);
-  printf ("resultado: el factorial de [%d] es [%d].\n", num, calcfact(num));
+  printf ("resultado: el factorial de [%d] es [%d].\n", n, calcfact(n));
 
   numero=atoi(argv[1]);
   printf ("resultado: el factorial de [%d] es [%d].\n", numero, calcfact(numero));
